@@ -1,34 +1,10 @@
 # Project Readme
 
-[Project Report Site](#)
+[ITC HUB](https://integrated-touchscreen-control-hub.netlify.app/)
 
 ## Project Title
 
 Integrated TouchScreen Control Hub
-
-### Submitted to
-
-Md. Abubakar Siddik  
-Assistant Professor  
-Department of Electronics and Communication Engineering  
-Faculty of Computer Science and Engineering  
-Course Code: ECE 202
-
-### Submitted by
-
-Mst. Fatematuj Johora  
-Student ID: 2102101  
-Level: 2 Semester: I
-
-Mohima Binte Rasel  
-Student ID: 2102102  
-Level: 2 Semester: I
-
-Md. Abid Hasan Rafi  
-Student ID: 2102103  
-Level: 2 Semester: I
-
-Group - 05
 
 ## Introduction
 
